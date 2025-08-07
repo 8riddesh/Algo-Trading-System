@@ -57,7 +57,9 @@ Upon successful execution, the script will produce the following outputs:
 
 As per the assignment requirements, two short videos have been recorded to accompany this submission:
 
-1. **Strategy and Code Flow:** A video explaining the logic behind the RSI and DMA crossover strategy, as well as a high-level overview of the modular code structure.  
+1. **Strategy and Code Flow:** A video explaining the logic behind the RSI and DMA crossover strategy, as well as a high-level overview of the modular code structure.
+link-https://drive.google.com/file/d/1zKjywX2VI8X9elaTAn1ZadkphIGP6Pv0/view?usp=sharing   
 2. **Console and Google Sheets Output:** A video demonstrating the execution of the script and walking through the generated output on both the console and the Google Sheets document.
+link-https://drive.google.com/file/d/1kiZ17esY5hxwjOfQuRDx6snvYE7clvi0/view?usp=sharing
 
 This project successfully fulfills all the requirements of the assignment, demonstrating a comprehensive understanding of algo-trading principles, data analysis, and software engineering best practices.
